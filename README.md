@@ -986,7 +986,7 @@ Esto permitió comprobar el funcionamiento del estado `WR_DIN_TEXT` y de la secu
 
 #### Evidencia de funcionamiento de la parte 2
 
-![Resultado de la parte 2](resultado_parte2.jpg)
+![Resultado de la parte 2](resultado_parte2.jpeg)
 
 #### Video de funcionamiento de la parte 2
 
